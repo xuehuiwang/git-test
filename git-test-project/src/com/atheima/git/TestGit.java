@@ -18,4 +18,11 @@ public class TestGit {
     public void add(){
         System.out.println("新增一个add方法");
     }
+
+    /**
+     * 新增吃的方法
+     */
+    public void eat(){
+        System.out.println("吃");
+    }
 }
