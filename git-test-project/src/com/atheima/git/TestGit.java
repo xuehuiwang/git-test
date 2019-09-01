@@ -9,6 +9,10 @@ public class TestGit {
         System.out.println("测试git");
         System.out.println("测试git");
         System.out.println("测试git");
+        int a = 10;
+        int b = 20;
+        int c = a+b;
+        System.out.println("c = "+c);
     }
     //url = https://[用户名]:[密码]@github.com/KingBoyAndGirl/Project.git
     public void add(){
